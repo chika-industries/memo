@@ -50,4 +50,66 @@ The goal is to shift reliance from active earned income to passive or portfolio 
 In a landscape filled with complex financial advice, the simplicity of the "asset vs. liability" model is its greatest strength. It serves as an effective mental checklist for financial decisions. Before making a significant purchase, ask: **"Am I buying an asset that will pay me, or a liability that will cost me?"** This single question can fundamentally redirect one's financial trajectory.
 
 ---
+
+### Alternative version
+
+# Personal Finance Cashflow Memo (Inspired by Robert Kiyosaki)
+
+## Core Principle
+The way you manage cashflow determines whether you experience **poor cash flow** (money flows out as expenses and liabilities) or **rich cash flow** (money flows into assets that generate more revenue).
+
+---
+
+## Income Statement Structure
+
+### Assets
+- Generate revenues (e.g., real estate, stocks, intellectual property, businesses)
+- Buy more assets if opportunity arises → increases revenue flow
+
+### Liabilities
+- Credit cards  
+- Mortgage  
+- Other debt (car loans, school loans, consumer loans)  
+- ⚠️ Should generally **avoid**, but can sometimes be used as leverage
+
+### Revenues
+- Money flowing **in** from assets  
+- Examples: rental income, dividends, interest, royalties  
+- Strategy: reinvest revenues to acquire more assets
+
+### Expenses
+- Money flowing **out**  
+- Includes: taxes, payments, lifestyle costs  
+- Strategy: **minimize expenses** to maximize reinvestment
+
+---
+
+## Poor Cash Flow Pattern
+- **Income**: Job salary  
+- **Expenses**: Taxes, mortgage, car payment, credit card debt, school loan  
+- **Balance sheet**:  
+  - Assets: minimal or none  
+  - Liabilities: mortgage, loans, credit card debt  
+
+Result: Cash flows from salary directly out to expenses and liabilities.
+
+---
+
+## Rich Cash Flow Pattern
+- **Income**: Rental income, dividends, interest, royalties  
+- **Expenses**: Taxes, mortgage payment (minimized)  
+- **Balance sheet**:  
+  - Assets: Real estate, stocks, bonds, intellectual property, businesses  
+  - Liabilities: mortgage, some loans/credit cards (managed carefully)  
+
+Result: Cash flows from assets into revenues, which fund further asset purchases.
+
+---
+
+## Strategy Summary
+- **Avoid**: Excessive liabilities  
+- **Minimize**: Expenses and taxes  
+- **Buy more**: Assets whenever opportunity arises  
+- **Cycle**: Assets → Revenues → Reinvest → More Assets  
+```
 *This memo is based on personal interpretation and is intended for informational purposes only. It is not financial advice.*
